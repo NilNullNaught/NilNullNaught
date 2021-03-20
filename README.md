@@ -1,1 +1,1 @@
-A rookie developer from China.
+A rookie developer.
